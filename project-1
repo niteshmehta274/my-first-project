@@ -3,3 +3,4 @@ yum install bind
 systemctl enable --now named
 useradd vivo23
 groupadd nokia23
+useradd jiptesh
